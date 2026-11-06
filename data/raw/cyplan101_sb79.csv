@@ -1,0 +1,7 @@
+tier,radius,tier_zone_label,sb79_scale,max_height_sb79
+1,200,Tier 1 - 200ft,6,95
+1,1/4,Tier 1 - Quarter Mile,5,75
+1,1/2,Tier 1 - Half Mile,4,65
+2,200,Tier 2 - 200ft,5,85
+2,1/4,Tier 2 - Quarter Mile,4,65
+2,1/2,Tier 2 - Half Mile,3,55
